@@ -10,16 +10,9 @@
 ```js
 const Me = {
   Networks : {
-    Learning : ["Network", "JavaScript", "Python",],
-    Social : ["Discord", "Telegram" ],
-    Project : "Soon..",
+    Learning : ["JavaScript", "Python",],
+    Contact : ["Discord", "Telegram" ],
     Os : "Windows",
-  },
-  Personal : {
-    Activity : ["Developement", "Manga", "Vidéo Games"],
-    Programming : "Python",
-    Dream : ["Devellopement", "Money"],
-    Currently : ["Student", "Men", "16Yo" ]
   }
 };
 ````
